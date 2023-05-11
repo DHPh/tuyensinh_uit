@@ -1,0 +1,57 @@
+https://daa.uit.edu.vn/content/ky-su-nganh-he-thong-thong-tin-ap-dung-tu-khoa-12-2017
+Giới thiệu chương trình Kỹ sư ngành Hệ thống Thông tin (Áp dụng từ khóa 12 - 2017)
+11/05/2023
+
+## Mục tiêu đào tạo
+
+Chương trình đào tạo kỹ sư Hệ thống thông tin được xây dựng và triển khai để đáp ứng nhu cầu đào tạo nguồn lực kỹ sư Hệ thống thông tin chất lượng cao, có phẩm chất chính trị, đạo đức và sức khoẻ tốt, có trách nhiệm nghề nghiệp, nắm vững những kiến thức cơ bản và chuyên sâu về hệ thống thông tin dựa trên máy tính, có năng lực tổ chức và phát triển các ứng dụng tin học nhằm hỗ trợ các hoạt động tác nghiệp và quản lý trong các tổ chức kinh tế, xã hội.
+
+Chương trình đào tạo cung cấp cho sinh viên những kiến thức cơ bản và chuyên sâu, những thành tựu mới nhất của ngành hệ thống thông tin; các phương pháp phân tích, thiết kế, xây dựng và triển khai hệ thống ứng dụng, rèn luyện kỹ năng lập luận phân tích, tổng hợp, lập giải pháp, kỹ năng nghiên cứu khoa học, kỹ năng nghề nghiệp, phát triển khả năng tư duy hệ thống, tư duy phản biện.
+
+## Vị trí và khả năng làm việc sau tốt nghiệp
+
+Sinh viên tốt nghiệp Chương trình đào tạo Kỹ sư Hệ thống thông tin có thể làm việc ở những phạm vi và lĩnh vực khác nhau như:
+
+1) Chuyên viên phân tích, thiết kế, cài đặt, kiểm thử, bảo trì các dự án công nghệ thông tin đáp ứng nhu cầu ứng dụng khác nhau của cơ quan và doanh nghiệp (hành chính sự nghiệp, ngân hàng, viễn thông, hàng không, xây dựng,…).
+
+2) Cán bộ nghiên cứu khoa học và ứng dụng công nghệ thông tin ở các Viện, trung tâm, cơ quan nghiên cứu của các Bộ, Ngành, các trường đại học, cao đẳng. Giảng dạy công nghệ thông tin tại trường đại học, cao đẳng và phổ thông.
+
+3) Giám đốc thông tin (CIO), cán bộ quản lý dự án, quản trị viên cơ sở dữ liệu.
+
+Có thể làm việc với vai trò là một chuyên viên lập dự án, hoạch định chính sách phát triển CNTT hoặc một lập trình viên trong các công ty sản xuất, gia công phần mềm trong và ngoài nước, các công ty tư vấn đề xuất giải pháp, xây dựng và bảo trì các dự án công nghệ thông tin.
+
+## Hình thức và thời gian đào tạo
+
+- Hình thức đào tạo: chính quy tập trung.
+
+- Thời gian đào tạo: 4 năm (8 học kỳ chính)..
+
+## Chuẩn đầu ra
+
+Sinh viên tốt nghiệp chương trình kỹ sư ngành Hệ thống thông tin đáp ứng các chuẩn đầu ra về mặt kiến thức, kỹ năng và thái độ như sau:
+
+- Có kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội và khả năng vận dụng vào chuyên ngành (LO 1) (abet 3a).
+
+- Có kiến thức nền tảng và chuyên sâu của ngành hệ thống thông tin và ứng dụng vào thực tiễn (LO 2) (abet 3b, c).
+
+- Có khả năng lập luận phân tích và giải quyết vấn đề liên quan đến ngành hệ thống thông tin (LO 3) (abet 3e, cdio 2.1)
+
+- Có kỹ năng khảo sát, phân tích, đánh giá, tổng hợp tài liệu (LO 4), (abet 3b)
+
+- Có tư duy hệ thống, có khả năng phân tích, thiết kế các thành phần hoặc toàn bộ hệ thống thuộc lĩnh vực HTTT (LO 5) (abet 3c)
+
+- Có nhận thức về sự cần thiết và có năng lực để học tập suốt đời, tự học các kiến thức bổ trợ để phục vụ cho hướng công việc tương lai. Có hiểu biết về các giá trị đạo đức và trách nhiệm nghề nghiệp (LO 6) (abet 3i, 3f)
+
+- Có kỹ năng làm việc nhóm với tác phong chuyên nghiệp (LO 7) (abet 3d)
+
+- Có kỹ năng giao tiếp (LO 8) (abet 3g)
+
+- Có kỹ năng ngoại ngữ (LO 9)
+
+Hiểu nhu cầu xã hội, tác động của các công nghệ mới trong bối cảnh xã hội, kinh tế toàn cầu. Có khả năng hình thành ý tưởng, phân tích, thiết kế, tổ chức, xây dựng và triển khai các ứng dụng đáp ứng nhu cầu xã hội, hỗ trợ các hoạt động tác nghiệp, hoạt động quản lý của các tổ chức, doanh nghiệp nhằm nâng cao sức cạnh tranh, phát triển, khởi nghiệp & sáng tạo (LO 10) (abet 3j).
+
+## Điều kiện tốt nghiệp 
+
+Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 140 TC, đã hoàn thành các môn học bắt buộc đối với chuyên ngành đăng ký tốt nghiệp, trình độ Anh văn đạt theo quy định của Trường.
+
+Ngoài ra, sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin.
