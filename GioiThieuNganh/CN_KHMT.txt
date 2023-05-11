@@ -4,109 +4,74 @@ Giới thiệu chương trình Cử nhân ngành Khoa học Máy tính (Áp dụ
 
 ## Mục tiêu đào tạo
 
-- Chương trình đào tạo hướng đến đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao đạt trình độ khu vực và quốc tế, đáp ứng nhu cầu xây dựng nguồn nhân lực ngành công nghiệp công nghệ thông tin trong cả nước.
+Chương trình đào tạo hướng đến đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao đạt trình độ khu vực và quốc tế, đáp ứng nhu cầu xây dựng nguồn nhân lực ngành công nghiệp công nghệ thông tin trong cả nước.
 
-- Sinh viên tốt nghiệp chương trình Cử nhân Khoa học máy tính phải đáp ứng các yêu cầu sau:
-
-    + Có kiến thức cơ bản và chuyên sâu về khoa học máy tính và công nghệ thông tin, có khả năng thiết kế các hệ thống xử lý tính toán phức tạp, các phần mềm có chất lượng khoa học và công nghệ cao, thử nghiệm, quản lý các hệ thống máy tính, các hệ thống tin học.
-
-    + Có khả năng triển khai xây dựng các hệ thống ứng dụng tin học và phân tích, thiết kế xây dựng các phần mềm có giá trị thực tiễn cao, có tính sáng tạo, đặc biệt là các ứng dụng thông minh dựa trên việc xử lý tri thức, xử lý ngữ nghĩa và ngôn ngữ tự nhiên.
-
-    + Có khả năng tự học học tập, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực Công nghệ thông tin và ứng dụng liên quan; có thể tiếp tục học tập ở bậc đào tạo sau đại học.
-
-    + Có khả năng giải quyết các vấn đề phức tạp trong các tình huống nảy sinh trong quá trình làm việc, phân tích và đề xuất giải pháp phù hợp với thực tế để giải quyết. Có khả năng thiết lập các mục tiêu khả thi, lập kế hoạch phù hợp với điều kiện thực tế để hoàn thành công việc được giao.
-
-    + Có khả năng giao tiếp xã hội, làm việc hợp tác, làm việc nhóm và làm việc trong một tổ chức; có khả năng vận dụng các kiến thức, kỹ năng và kinh nghiệm để giải quyết các tình huống nghề nghiệp khác nhau.
-
-    + Có trình độ tiếng Anh tốt, có thể giao tiếp, làm việc với các chuyên gia, đồng nghiệp nước ngoài.
+Sinh viên tốt nghiệp chương trình Cử nhân Khoa học máy tính phải đáp ứng các yêu cầu sau:
+- Có kiến thức cơ bản và chuyên sâu về khoa học máy tính và công nghệ thông tin, có khả năng thiết kế các hệ thống xử lý tính toán phức tạp, các phần mềm có chất lượng khoa học và công nghệ cao, thử nghiệm, quản lý các hệ thống máy tính, các hệ thống tin học.
+- Có khả năng triển khai xây dựng các hệ thống ứng dụng tin học và phân tích, thiết kế xây dựng các phần mềm có giá trị thực tiễn cao, có tính sáng tạo, đặc biệt là các ứng dụng thông minh dựa trên việc xử lý tri thức, xử lý ngữ nghĩa và ngôn ngữ tự nhiên.
+- Có khả năng tự học học tập, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực Công nghệ thông tin và ứng dụng liên quan; có thể tiếp tục học tập ở bậc đào tạo sau đại học.
+- Có khả năng giải quyết các vấn đề phức tạp trong các tình huống nảy sinh trong quá trình làm việc, phân tích và đề xuất giải pháp phù hợp với thực tế để giải quyết. Có khả năng thiết lập các mục tiêu khả thi, lập kế hoạch phù hợp với điều kiện thực tế để hoàn thành công việc được giao.
+- Có khả năng giao tiếp xã hội, làm việc hợp tác, làm việc nhóm và làm việc trong một tổ chức; có khả năng vận dụng các kiến thức, kỹ năng và kinh nghiệm để giải quyết các tình huống nghề nghiệp khác nhau.
+- Có trình độ tiếng Anh tốt, có thể giao tiếp, làm việc với các chuyên gia, đồng nghiệp nước ngoài.
 
 ## Vị trí vào khả năng làm việc sau tốt nghiệp
 
 Sinh viên tốt nghiệp ngành Khoa học máy tính có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:
-
 - Chuyên viên phân tích, thiết kế, cài đặt các đề án công nghệ thông tin đáp ứng các ứng dụng khác nhau trong các cơ quan, công ty, trường học,….
-
 - Có thể làm việc với vai trò là một Chuyên viên lập dự án, lên kế hoạch, hoạch định chính sách phát triển các ứng dụng tin học, hoặc một lập trình viên phát triển các phần mềm hệ thống.
-
 - Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công ty tư vấn đề xuất giải pháp, xây dựng và bảo trì các hệ thống thông tin hoặc làm việc tại bộ phận công nghệ thông tin.
-
 - Cán bộ nghiên cứu khoa học và ứng dụng Công nghệ thông tin ở các viện, trung tâm nghiên cứu, cơ quan nghiên cứu của các Bộ, Ngành, các trường đại học, cao đẳng.
-
 - Giảng dạy các môn liên quan đến khoa học máy tính tại các trường đại học, cao đẳng, trung học chuyên nghiệp, dạy nghề và các trường phổ thông,…
 
 ## Hình thức và thời gian đào tạo
 
- Hình thức đào tạo: chính quy tập trung.
+Hình thức đào tạo: chính quy tập trung.
 
-- Thời gian đào tạo : 3.5 năm (gồm 7 học kỳ chính thức)
+Thời gian đào tạo : 3.5 năm (gồm 7 học kỳ chính thức)
 
 ## Chuẩn đầu ra
 
 Sinh viên tốt nghiệp chương trình cử nhân ngành Khoa học máy tính phải đáp ứng các yêu cầu về tiêu chuẩn đầu ra sau:
-
 - LO 1. Có kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội
-
 - LO 2. Có kiến thức nền tảng và chuyên sâu của ngành Khoa học máy tính
-
 - LO 3. Có kỹ năng lập luận, phân tích và giải quyết vấn đề.
-
 - LO 4. Kỹ năng nghiên cứu khoa học và khám phá tri thức
-
 - LO 5. Tư duy hệ thống
-
 - LO 6. Có nhận thức về sự cần thiết và có năng lực để học tập suốt đời.
-
 - LO 7. Đạo đức nghề nghiệp
-
 - LO 8. Kỹ năng làm việc nhóm
-
 - LO 9. Kỹ năng giao tiếp
-
 - LO 10. Kỹ năng ngoại ngữ
-
 - LO 11. Hiểu bối cảnh và nhu cầu xã hội, có kỹ năng xây dựng ý tưởng, thiết kế, xây dựng và triển khai ứng dụng.
 
 ## Điều kiện tốt nghiệp
 
 Sinh viên có thể xét tốt nghiệp theo một trong hai trường hợp sau:
-1) Trường hợp tốt nghiệp theo ngành Khoa học máy tính
+
+### Trường hợp tốt nghiệp theo ngành Khoa học máy tính
 
 Để tốt nghiệp không theo chuyên ngành hẹp, sinh viên tích lũy tối thiểu 129 tín chỉ được phân bố theo các khối kiến thức sau:
-
-- Kiến thức giáo dục đại cương: 48 tín chỉ;
-
-- Kiến thức cơ sở nhóm ngành: 25 tín chỉ;
-
-- Kiến thức cơ sở ngành KHMT: 20 tín chỉ;
-
-- Kiến thức chuyên ngành bắt buộc (sinh viên chọn các môn học trong danh sách các môn học chuyên ngành bắt buộc của các chuyên ngành, không nhất thiết phải thuộc đúng một chuyên ngành): tối thiểu 08 tín chỉ;
-
-- Kiến thức chuyên ngành tự chọn (sinh viên chọn các môn học trong danh sách các môn học chuyên ngành tự chọn của các chuyên ngành, không nhất thiết phải thuộc đúng một chuyên ngành): tối thiểu 08 tín chỉ;
-
-- Kiến thức tự chọn tự do: tối thiểu 10 tín chỉ;
-
+- Kiến thức giáo dục đại cương: 48 tín chỉ
+- Kiến thức cơ sở nhóm ngành: 25 tín chỉ
+- Kiến thức cơ sở ngành KHMT: 20 tín chỉ
+- Kiến thức chuyên ngành bắt buộc (sinh viên chọn các môn học trong danh sách các môn học chuyên ngành bắt buộc của các chuyên ngành, không nhất thiết phải thuộc đúng một chuyên ngành): tối thiểu 08 tín chỉ
+- Kiến thức chuyên ngành tự chọn (sinh viên chọn các môn học trong danh sách các môn học chuyên ngành tự chọn của các chuyên ngành, không nhất thiết phải thuộc đúng một chuyên ngành): tối thiểu 08 tín chỉ
+- Kiến thức tự chọn tự do: tối thiểu 10 tín chỉ
 - Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.
 
-2) Trường hợp tốt nghiệp theo chuyên ngành hẹp
+### Trường hợp tốt nghiệp theo chuyên ngành hẹp
 
 Sinh viên có thể xét tốt nghiệp theo một trong ba chuyên ngành hẹp:
 
 Công nghệ tri thức và máy học hoặc Xử lý ngôn ngữ tự nhiên hoặc Thị giác máy tính và đa phương tiện
 
 Sinh viên tích lũy tối thiểu 129 tín chỉ được phân bố theo các khối kiến thức sau:
-
-- Kiến thức giáo dục đại cương: 48 tín chỉ;
-
-- Kiến thức cơ sở nhóm ngành: 25 tín chỉ ;
-
-- Kiến thức cơ sở ngành KHMT: 20 tín chỉ ;
-
-- Kiến thức bắt buộc theo chuyên ngành xét tốt nghiệp: 08 tín chỉ ;
-
-- Kiến thức tự chọn theo chuyên ngành xét tốt nghiệp: 08 tín chỉ ;
-
-- Kiến thức tự chọn tự do: tối thiểu 10 tín chỉ ;
-
+- Kiến thức giáo dục đại cương: 48 tín chỉ
+- Kiến thức cơ sở nhóm ngành: 25 tín chỉ
+- Kiến thức cơ sở ngành KHMT: 20 tín chỉ
+- Kiến thức bắt buộc theo chuyên ngành xét tốt nghiệp: 08 tín chỉ
+- Kiến thức tự chọn theo chuyên ngành xét tốt nghiệp: 08 tín chỉ
+- Kiến thức tự chọn tự do: tối thiểu 10 tín chỉ
 - Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.
 
 Ngoài ra, sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin cho hệ đại học chính quy.
