@@ -1,0 +1,16 @@
+https://tuyensinh.uit.edu.vn/nghien-cuu-ho-tro-nguoi-dung-chuyen-khuon-mat-thanh-anh-hoat-hinh-cua-nhom-sv-uit-duoc-dang-tren-tap-chi-quoc-te-uy-tin-isi-q1
+"Nghiên cứu hỗ trợ người dùng chuyển thể khuôn mặt thành ảnh hoạt hình" của nhóm sv UIT được đăng trên tạp chí quốc tế uy tín ISI-Q1
+11/05/2023
+
+## "Nghiên cứu hỗ trợ người dùng chuyển thể khuôn mặt thành ảnh hoạt hình" của nhóm sv UIT được đăng trên tạp chí quốc tế uy tín ISI-Q1
+
+Vừa qua, nhóm sinh viên UIT đã có bài báo khoa học được chấp nhận đăng tại tạp chí Multimedia Tools and Applications. Đây là một tạp chí quốc tế uy tín, thuộc danh mục ISI uy tín (xếp hạng Q1).
+
+Đó là bài báo: Abstraction - Perception Preserving Cartoon Face Synthesis. Multimedia Tools Application do các bạn sinh viên: Hồ Sĩ Tuyến, Ngô Hữu Mạnh Khanh, Nguyễn Thành Danh, Phan Nguyên thực hiện.
+
+Với bài toán chuyển đổi ảnh đời thực thành ảnh hoạt hình, nhóm nghiên cứu bắt đầu ý tưởng bằng một mô hình máy học để có thể chuyển đổi phong cách hoạt hình một cách tự động. “Ý tưởng nghiên cứu của bài toán bắt nguồn từ nhu cầu chuyển thể khuôn mặt thành ảnh có phong cách hoạt hình. Đây là một bài toán có tính ứng dụng cao hỗ trợ sản xuất phim hoạt hình hay những filter phong cách hoạt hình trên các ứng dụng như TikTok hay Snapchat. Tuy nhiên nhóm nhận thấy rằng các thuật toán này vẫn còn nhiều hạn chế và cần được cải tiến để đáp ứng các yêu cầu của người dùng. Do đó nhóm đã đề xuất một ý tưởng cải tiến nhằm nâng cao chất lượng của ảnh kết quả”, bạn Mạnh Khanh - thành viên nhóm nghiên cứu chia sẻ.
+
+Kết quả của bài báo khoa học này là những ngày tháng học tập và làm việc tại Phòng thí nghiệm Truyền thông đa phương tiện (MMLab), khoa KHMT và hợp tác nghiên cứu với trường Đại học Dayton (USA). “Tất cả các thành viên trong nhóm trước đây chưa có kinh nghiệm nộp bài vào tạp chí đầu ngành như Multimedia Tools and Applications nên đã gặp nhiều khó khăn trong quá trình nghiên cứu và nộp bài. Tuy nhiên các nhờ sự tận tình giúp đỡ và hướng dẫn của các thầy mà nhóm đã có thể hoàn thành tốt nghiên cứu này. Bên cạnh đó, để có thể huấn luyện và đánh giá mô hình mà nhóm đề xuất cần rất nhiều tài nguyên tính toán. Nhờ có sự hỗ trợ tài, tạo điều kiện sử dụng tài nguyên tính toán của trường và khoa Khoa học máy tính mà nhóm đã hoàn thành tốt nghiên cứu”, bạn Khanh đại diện nhóm gửi lời cảm ơn thầy thầy cô và Nhà trường.
+
+Được biết, Tạp chí Multimedia Tools and Applications là một tạp chí quốc tế, thuộc danh mục ISI uy tín (xếp hạng Q1), chuyên công bố các nghiên cứu mới nhất trong lĩnh vực đa phương tiện. Các nghiên cứu được đăng trên tạp chí này phải trải qua rất nhiều vòng xem xét, đánh giá khách quan bởi các chuyên gia hàng đầu trong lĩnh vực đa phương tiện trên thế giới. Sau đó tác giả phải chỉnh sửa theo các góp ý khoa học trước khi công bố online.
+

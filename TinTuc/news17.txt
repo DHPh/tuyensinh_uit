@@ -1,0 +1,25 @@
+https://tuyensinh.uit.edu.vn/vuot-qua-hang-ngan-doi-thi-2-nhom-sv-uit-duoc-chon-tranh-tai-vong-gioi-cuoc-thi-google-chuc
+Vượt qua hàng ngàn đội thi, 2 nhóm SV UIT được chọn tranh tài vòng thế giới cuộc thi Google tổ chức
+11/05/2023
+
+## Vượt qua được hàng ngàn đội thi đến từ khắp nơi trên thế giới, hai đội thi eGreenBin và SoWaste đến từ UIT đã xuất sắc trở thành 2 trong 4 đội thi Việt Nam lọt vào top 100 thế giới. 2 đội thi còn lại đến từ Đại học KHXH&NV - Đà Nẵng.
+
+Kỳ thi Google Solution Challenge là một cuộc thi do Google tổ chức hằng năm dành cho sinh viên trên toàn thế giới. Các nhóm sử dụng công nghệ của Google để xây dựng giải pháp giải quyết vấn đề ở địa phương, phù hợp với một hoặc nhiều Mục tiêu phát triển bền vững của Liên Hợp Quốc. 
+
+## Đề tài dự án eGreenBin: 
+
+Các thành viên bao gồm Nguyễn Công Tấn Phát (nhóm trưởng), Phan Văn Minh, Nguyễn Hữu Hiệu, Ngô Thu Hà.
+
+Mô tả dự án: eGreenBin là một dự án được phát triển từ việc mong muốn xây dựng nhận thức và hình thành thói quen về việc phân loại rác cho trẻ em từ trong trường học. Ở một số nơi, mặc dù có thùng rác để phân loại nhưng dường như không đạt hiệu quả cao trong việc này do chưa có sự kết hợp nhiều với giáo dục. Vì thế, dự án hướng đến việc giáo dục để xây dựng nhận thức lâu dài và kỹ năng phân loại rác cho trẻ từ giai đoạn dễ tiếp nhận và thay đổi nhất, để tạo một nền tảng về thói quen đúng đắn và lành mạnh cho trẻ khi trưởng thành. Ý tưởng được triển khai bằng sự phối hợp của AI, IOT và software.
+
+## Đề tài dự án SoWaste (Sorting Waste):
+
+Các thành viên bao gồm Bùi Lê Khánh Linh (nhóm trưởng), Trần Tuấn Kiệt, Lưu Hiếu Ngân, Đặng Anh Tiến. 
+
+Mô tả dự án: SoWaste là một dự án được phát triển nhằm giúp đưa ra các giải pháp hỗ trợ việc phân loại rác và nâng cao nhận thức đúng đắn về các loại rác từ đó góp phần bảo về môi trường từ việc tái chế và giảm thiểu rác thải. Bằng việc sử dụng Trí tuệ nhân tạo để phát hiện rác trong hình ảnh và hiển thị thông tin liên quan để người dùng có thể xác định loại rác đó có thể tái chế hay không, SoWaste giúp người dùng phân loại rác nhanh chóng, dễ dàng. Ngoài ra, ứng dụng còn cung cấp từ điển về các loại rác được lựa chọn từ nhiều nguồn thông tin uy tín kèm theo hình ảnh minh họa để giúp người dùng hiểu rõ hơn về cách giảm thiểu, tái chế và tái sử dụng các loại rác. Bên cạnh đó, SoWaste sử dụng Google Map API để gợi ý địa điểm thu mua phế liệu xung quanh người dùng nhằm khuyến khích người dùng thu gom các loại rác tái chế.
+
+Đặc biệt, hai sản phẩm của eGreenBin và SoWaste đã thể hiện sự sáng tạo và tính ứng dụng cao, đồng thời góp phần thực hiện 1 trong 17 mục tiêu phát triển bền vững của Liên Hiệp Quốc.
+
+Kết quả này đến từ sự nỗ lực, hợp tác hiệu quả và sự đồng hành hỗ trợ từ phía CLB GDSC-UIT, thầy cô và Nhà trường. “Khi nhận được email thông báo về việc lọt vào top 100 trong cuộc thi Solution Challenge 2023, cả nhóm đã vô cùng bất ngờ và cảm thấy rất vui và tự hào vì công sức và thời gian đầu tư vào dự án đã được công nhận. Thành tích đó cũng là một động lực để mình cùng các thành viên tiếp tục phát triển và cải tiến sản phẩm với mục tiêu cao hơn là giành được vị trí top 10 trong cuộc thi”, Khánh Linh - leader team SoWaste cho biết.
+
+Để chuẩn bị cho cuộc thi quốc tế sắp tới, cả hai nhóm đều đang tích cực cải tiến sản phẩm của mình nhằm đáp ứng các yêu cầu và đánh giá của ban giám khảo. Bạn Linh chia sẻ về dự định của nhóm sắp tới: “Nhóm sẽ tập trung vào các tính năng chính của sản phẩm để nâng cao trải nghiệm người dùng và tối ưu hóa hiệu suất của sản phẩm. Ngoài ra, nhóm cũng sẽ tiến hành nghiên cứu, khảo sát người dùng để có thể cải thiện và phát triển sản phẩm của mình một cách tốt nhất”.

@@ -1,0 +1,45 @@
+https://tuyensinh.uit.edu.vn/doi-hermes-chinh-thuc-tro-thanh-quan-quan-uit-ai-challenge-2022
+Đội Hermes chính thức trở thành Quán quân UIT - AI Challenge 2022
+11/05/2023
+
+Vừa qua, UIT - AI Challenge đã chính thức khép lại sau hơn 2 tuần thi đấu đầy cạnh tranh với sự tham gia của hơn 80 đội thi với nhiều bạn thí sinh tài năng. Theo đó, các thí sinh tham gia cuộc thi được dịp phô diễn tài năng của mình và đem lại thành tích đáng nể phục.
+
+UIT AI Challenge (UAIC) là một cuộc thi thường niên do Câu lạc bộ AI - Khoa Khoa học Máy tính tổ chức nhằm mang đến một sân chơi học thuật liên quan đến Trí tuệ nhân tạo nhằm đẩy mạnh phong trào học tập trong sinh viên, giúp các bạn sinh viên có thêm kiến thức về lĩnh vực Trí tuệ nhân tạo, cũng như các kỹ năng làm việc nhóm, phân tích vấn đề và tìm ra giải pháp. 
+
+UAIC 2022 đã quay trở lại và mang đến một luồng gió mới với chủ đề: “THROUGH THE AI EYES”, các đội sẽ chinh phục thử thách dựa vào đôi mắt của AI. Bài toán chi tiết sẽ sớm được bật mí đến các đội thi. Cuộc thi diễn ra với 2 vòng:
+
+Vòng sơ loại: Các đội thi thực hiện xây dựng, đánh giá và tối ưu giải pháp của đội dựa trên dữ liệu Public Test và hệ thống đánh giá từ BTC. 
+
+Vòng chung kết: Các đội thực hiện đánh giá giải pháp tốt nhất của đội trên dữ liệu Private Test do BTC cung cấp, các đội sẽ có giới hạn về thời gian và số lượng submission.
+
+Với sự tham gia tích cực, các thí sinh năm nay đều có cơ hội trải nghiệm và mang về nhiều thành tích ấn tượng. Ngay sau khi cuộc thi khép lại, BTC UAIC 2022 đã công bố giải thưởng như sau:
+
+Giải nhất: đội “Hermes” đến từ Đại học Công nghệ Thông tin, ĐHQG-HCM  gồm các thành viên:
+-Bùi Mạnh Hùng - KHCL2021.2
+-Lê Ngô Minh Đức - KHNT2021
+-Đoàn Nhật Sang - KHNT2021
+-Nguyễn Trần Hoàng Quân - KHCL2021.2
+-Lê Gia Khang - KHCL2021.2 
+
+Giải nhì: đội “Kronus” đến từ Đại học Công nghệ Thông tin, ĐHQG-HCM với thành viên Trần Siêu - KHMT2021
+
+Giải ba: đội “Dreamy Knights” đến từ Đại học Công nghệ Thông tin, ĐHQG-HCM gồm các thành viên:
+-Nguyễn Đức Anh Phúc - KHMT2020
+-Ngô Văn Tấn Lưu - KHMT2020
+-Trương Thành Thắng - KHMT2020
+-Huỳnh Viết Tuấn Kiệt - KHMT2020
+-Lê Việt Thịnh - KHMT2020
+
+Đội trẻ có thành tích xuất sắc nhất: đội “Em anh Bảo” đến từ Đại học Công nghệ Thông tin, ĐHQG-HCM gồm các thành viên:
+-Ngô Minh Bảo Duy - KHMT2022.1
+-Phạm Huỳnh Nhựt Anh - KHMT2022.1
+-Trần Gia Bảo - KHMT2022.1
+-Nguyễn Gia Bảo - KHMT2022.1
+
+Giải Sáng tạo và Top 1 score phase 1: đội “Stable Diffusion v2.0” đến từ Đại học Bách khoa TP.HCM với thành viên Huỳnh Tấn Bảo.
+
+Giải Sáng tạo và Top 1 scoce phase 2: đội “DeadlineKLTN” đến từ Đại học Công nghệ Thông tin, ĐHQG-HCM gồm các thành viên:
+-Lương Phạm Bảo - KHMT2019.1
+-Đinh Duyên Bảo Duy
+
+Vậy là UIT- AI Challenge năm nay với sự đồng hành của thầy cô khoa Khoa học Máy tính, sự tài trợ từ  Rosen cùng với sự tham gia của nhiều tài năng trẻ đã khép lại thành công tốt đẹp. Hy vọng chúng ta sẽ được thấy nhiều sự tỏa sáng của các bạn trẻ trong tương lai.

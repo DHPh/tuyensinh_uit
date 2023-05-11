@@ -1,0 +1,24 @@
+https://tuyensinh.uit.edu.vn/nhom-sv-uit-co-du-cong-nghe-xuat-sac-nhat-tai-google-developer-student-clubs-gdsc-hackathon-vietnam-nam-2023
+Nhóm SV UIT có dự án công nghệ xuất sắc nhất tại Google Developer Student Clubs (GDSC) Hackathon Vietnam năm 2023
+11/05/2023
+
+## Nhóm SV UIT có dự án công nghệ xuất sắc nhất tại Google Developer Student Clubs (GDSC) Hackathon Vietnam năm 2023
+
+Vừa qua, nhóm sinh viên thuộc CLB Developer Student Clubs - UIT đã xuất sắc giành được giải Nhất cuộc thi Google Developer Student Clubs (GDSC) Hackathon Vietnam năm 2023.
+
+Các thành viên của nhóm bao gồm:
+-Nguyễn Công Tấn Phát - khoa Khoa học và Kỹ thuật Thông tin - ngành Công nghệ Thông tin (Nhóm trưởng)
+-Cao Minh Quân - khoa Mạng máy tính và Truyền thông - ngành Mạng máy tính và Truyền thông dữ liệu
+-Phan Văn Minh - khoa Công nghệ Phần mềm - ngành Kỹ thuật Phần mềm
+-Nguyễn Hữu Hiệu - khoa Hệ thống Thông tin - ngành Hệ thống Thông tin
+
+Theo đó, eGreenBin là một dự án được phát triển từ việc mong muốn xây dựng nhận thức và hình thành thói quen về việc phân loại rác cho trẻ em từ trong trường học. Ở một số nơi, mặc dù có thùng rác để phân loại nhưng dường như không đạt hiệu quả cao trong việc này do chưa có sự kết hợp nhiều với giáo dục. Vì thế, dự án hướng đến việc giáo dục để xây dựng nhận thức lâu dài và kỹ năng phân loại rác cho trẻ từ giai đoạn dễ tiếp nhận và thay đổi nhất, để tạo một nền tảng về thói quen đúng đắn và lành mạnh cho trẻ khi trưởng thành. Ý tưởng được triển khai bằng sự phối hợp của AI, IOT và software.
+
+Dự án hướng đến 3 trong 17 mục tiêu phát triển bền vững của Liên Hợp Quốc. Đó cũng là nền tảng để nhóm nghiên cứu xây dựng và phát triển dự án. Ít ai biết, ý tưởng dự án này được nhóm nghiên cứu nghĩ ra trong một lần tình cờ. “Trong lúc cả nhóm ra ngồi chơi thì mình có nhìn thấy trong trường 1 thùng rác tái chế, 1 thùng rác chứa các loại rác còn lại. Mình có quan sát thì thấy đa số các bạn sinh viên đều không quan tâm và bỏ bừa rác vào thùng bất kỳ. Một số khác dừng lại, quan sát sau đó mới bỏ vào thùng. Qua việc trao đổi, mình được biết các bạn đó được ba mẹ dạy điều này từ nhỏ. Sau đó, liên hệ với bản thân và một vài nghiên cứu nhỏ thì tụi mình quyết định xây dựng một giải pháp để giúp hiện thực hóa điều này”, bạn Tấn Phát chia sẻ.
+
+Với mong muốn giáo dục và giúp trẻ em hình thành nhận thức đúng đắn về việc phân loại rác từ sớm, dự án đã nhận lại được nhiều tín hiệu tích cực. Qua đó, các thành viên cũng có cơ hội học hỏi nhiều hơn tại cuộc thi. Bạn Phát cho biết: “Sau dự án thì tụi mình học được rất nhiều kiến thức bổ ích, được trau dồi và tiếp cận nhiều thông tin hơn. Bên cạnh đó, các thành viên trong team mỗi người đến từ các khoa ngành khác nhau nên trong quá trình làm tụi mình tương tác với nhau nhiều hơn, hiểu rõ về tinh thần đoàn kết đồng đội”.
+
+Trong quá trình thực hiện dự án, nhóm nghiên cứu nhận được sự hỗ trợ nhiệt tình từ phía thầy cô và Nhà trường về cả kiến thức lẫn tinh thần. Và hơn hết là sự đồng hành của CLB DSC-UIT, đã giúp đỡ nhóm trong quá trình lên ý tưởng và hoàn thành dự án.
+
+Được biết, bên cạnh giải Nhất, UIT còn có 1 đại diện đạt giải 3 tại cuộc thi này. Đó là nhóm “pro-en” với đề tài SoWaste (Sorting Waste) gồm các bạn Bùi Lê Khánh Linh (Nhóm trưởng), Trần Tuấn Kiệt, Lưu Hiếu Ngân, Đặng Anh Tiến. Đặc biệt, 2 đại diện đạt giải lần này đều đến từ Developer Student Clubs.
+
