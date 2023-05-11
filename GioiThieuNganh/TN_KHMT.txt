@@ -1,0 +1,46 @@
+https://daa.uit.edu.vn/content/cu-nhan-nganh-khoa-hoc-may-tinh-ap-dung-tu-khoa-12-2017
+Giới thiệu chung về chương trình tài năng Cử nhân ngành Khoa học Máy tính (Áp dụng từ khóa 12 - 2017) 
+11/05/2023
+
+## Sự khác biệt của chương trình đào tạo tài năng với chương trình đào tạo đãi trà
+
+### Về cấu trúc nội dung
+
+Chương trình đào tạo tài năng được xây dựng và phát triển trên nền của Chương trình đào tạo đại trà. Vì vậy, hai chương trình này có cấu trúc nội dung như nhau.
+
+### Về mục tiêu, chuẩn đầu ra của chương trình
+
+Một số khác biệt so với hệ đại trà như sau:
+
+#### Chuẩn đầu ra:
+
+Chương trình đào tạo cử nhân tài năng được xây dựng trên nền tảng chương trình khung của ngành Khoa học máy tính, trong đó chuẩn đầu ra của chương trình đào tạo tài năng có những điểm khác biệt đặc trưng so với hệ đào tạo đại trà như sau:
+- Tính chuyên sâu trong các môn học: Chương trình đào tạo hệ cử nhân tài năng được thiết kế với yêu cầu về trình độ cao hơn và nội dung rộng hơn, sâu hơn theo hướng nâng cao, đặc biệt là ở các môn học thuộc chuyên ngành. Bên cạnh các bài giảng mang tính chất chuyên sâu, nội dung kiến thức của các môn học trong hệ tài năng có tính cập nhật cao hơn.
+- Chất lượng của khóa luận tốt nghiệp: Sinh viên hệ tài năng được làm quen với nghiên cứu khoa học và tăng cường khả năng giải quyết vấn đề thông qua các chuyên đề nghiên cứu, các seminar chuyên đề trước khi làm khóa luận tốt nghiệp. Do đó, khóa luận tốt nghiệp của sinh viên có giá trị khoa học cao hơn.
+- Đề tài nghiên cứu và bài báo khoa học: Với việc tiếp cận với nghiên cứu từ sớm, sinh viên hệ tài năng có khả năng tham gia vào các đề tài nghiên cứu và có công bố kết quả nghiên cứu trên các tạp chí khoa học, báo cáo tại hội nghị khoa học chuyên ngành KHMT.
+
+ Các sinh viên hệ Cử nhân Tài năng có năng lực tham gia các chương trình hợp tác đào tạo với các giáo sư nước ngoài và sớm đi vào nghiên cứu khoa học. Hiện nay các sinh viên hệ Cử nhân Tài năng đã góp phần không nhỏ trong việc thu hút sự quan tâm hợp tác của các giáo sư Việt kiều và nước ngoài.
+
+#### Môn học tự chọn:
+
+Sinh viên hệ tài năng bắt buộc chọn môn học tự chọn chuyên sâu: Đồ án chuyên ngành (CS530). Trong các môn học này, sinh viên sẽ tự chọn chủ đề nghiên cứu theo các giảng viên tham gia gia giảng dạy trong môn học đó.
+
+#### Khối kiến thức tốt nghiệp
+
+Sinh viên hệ tài năng bắt buộc phải thực hiện Khóa luận tốt nghiệp.
+
+#### Bằng tốt nghiệp
+
+Sinh viên hệ tài năng được xét cấp bằng “Cử nhân tài năng” (Honors Program) của trường Đại học Công nghệ thông tin – ĐHQG HCM.
+
+#### Các quy định khác
+
+Ngoài quy chế đào tạo, hệ cử nhân tài năng còn tuân thủ theo Quy định về hệ Tài năng trường Đại học Công nghệ thông tin ban hành kèm theo Quyết định số 144/QĐ-ĐHCNTT-ĐTĐH ngày 31/07/2013.
+
+#### Các môn học tài năng
+
+Trong chương trình Cử nhân tài năng ngành Khoa học máy tính, sinh viên được học một số môn học tài năng. Trong đó, các giảng viên đều có học vị Tiến sĩ, Phó Giáo sư, Giáo sư.
+
+Sinh viên theo học các môn tài năng sẽ được trang bị các kiến thức nâng cao, được tiếp cận các công nghệ tiên tiến và phương pháp nghiên cứu khoa học mới nhất.
+
+Các môn học tài năng sẽ được dạy với cơ sở vật chất đầy đủ và tốt nhất nên các sinh viên có điều kiện trao đổi chuyên môn với giảng viên được dễ dàng hơn, sinh viên được thực nghiệm nhiều hơn, được rèn luyện các kỹ năng như làm việc nhóm, kỹ năng giao tiếp.

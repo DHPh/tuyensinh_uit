@@ -19,51 +19,33 @@ Hiện nay khoa Khoa học Máy Tính có 2 bộ môn Trí tuệ Nhân tạo và
 Bộ môn có nhiệm vụ nghiên cứu khoa học và giảng dạy các môn học theo định hướng Trí tuệ nhân tạo. Các môn học sẽ cung cấp các kiến thức nền tảng và chuyên sâu giúp sinh viên có thể xây dựng các giải pháp sử dụng Trí tuệ nhân tạo phát triển các ứng dụng hỗ trợ người dùng.
 
 Một số lĩnh vực chính:
-
-    - Máy học (Machine Learning)
-
-    - Biểu diễn tri thức và Suy luận (Knowledge Representation and Reasoning)
-
-    - Dữ liệu lớn (Big Data)
-
-    - Thuật toán tiến hóa (Evolutionary Algorithm)
+- Máy học (Machine Learning)
+- Biểu diễn tri thức và Suy luận (Knowledge Representation and Reasoning)
+- Dữ liệu lớn (Big Data)
+- Thuật toán tiến hóa (Evolutionary Algorithm)
 
 ## Bộ môn tính toán đa phương tiện
 
 Bộ môn có nhiệm vụ giảng dạy các môn học theo định hướng tính toán và khai thác dữ liệu đa phương tiện (bao gồm các dữ liệu dạng ảnh, video, văn bản, tiếng nói). Mục tiêu chính đó là cung cấp các kiến thức nền tảng giúp sinh viên có thể nghiên cứu và phát triển các ứng dụng nhằm khai thác dữ liệu đa phương tiện nhằm hỗ trợ các hoạt động quản lý cho tổ chức kinh tế, xã hội. Một số ứng dụng điển hình tương ứng với từng lĩnh vực như nhận diện khuôn mặt thông qua camera (Computer Vision), hệ thống hỏi đáp tự động (Natural Language Processing), …
 
 Một số lĩnh vực chính:
-
-    - Xử lý dữ liệu đa phương tiện (Multimedia Processing)
-
-    - Đồ họa máy tính (Computer Graphics)
-
-    - Thị giác máy tính (Computer Vision)
-
-    - Xử lý Ngôn ngữ Tự nhiên (Natural Language Processing)
-
-    - Xử lý Âm thanh và Tiếng nói (Audio and Speech Processing)
-
-    - Y-Tin học (Medical Informatics)
-
-    - Thực tại ảo (Virtual Reality)
-
-    - Thực tại tăng cường (Augmented Reality)
+- Xử lý dữ liệu đa phương tiện (Multimedia Processing)
+- Đồ họa máy tính (Computer Graphics)
+- Thị giác máy tính (Computer Vision)
+- Xử lý Ngôn ngữ Tự nhiên (Natural Language Processing)
+- Xử lý Âm thanh và Tiếng nói (Audio and Speech Processing)
+- Y-Tin học (Medical Informatics)
+- Thực tại ảo (Virtual Reality)
+- Thực tại tăng cường (Augmented Reality)
 
 ## Cơ hội nghề nghiệp
 
 Sinh viên tốt nghiệp ngành Khoa học Máy Tính có thể làm việc ở nhiều vị trí trong đó có các vị trí và lĩnh vực sau:
-
-    - Chuyên gia phân tích, thiết kế, xây dựng giải pháp kỹ thuật, giải pháp công nghệ tại các công ty, tập đoàn công nghệ.
-
-    - Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các hệ thống tính toán thông minh.
-
-    - Bộ phận Nghiên cứu & Phát triển (Research & Develop) của các công ty và tập đoàn công nghệ.
-
-    - Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu của các công ty và tập đoàn công nghệ.
-
-    - Giảng dạy các môn liên quan đến Khoa học máy tính tại các trường Đại học, Cao đẳng, Trung học chuyên nghiệp, dạy nghề và các trường phổ thông
-
-    - Tiếp tục theo học các bậc học cao hơn về Khoa học máy tính, Trí tuệ nhân tạo.
+- Chuyên gia phân tích, thiết kế, xây dựng giải pháp kỹ thuật, giải pháp công nghệ tại các công ty, tập đoàn công nghệ.
+- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các hệ thống tính toán thông minh.
+- Bộ phận Nghiên cứu & Phát triển (Research & Develop) của các công ty và tập đoàn công nghệ.
+- Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu của các công ty và tập đoàn công nghệ.
+- Giảng dạy các môn liên quan đến Khoa học máy tính tại các trường Đại học, Cao đẳng, Trung học chuyên nghiệp, dạy nghề và các trường phổ thông
+- Tiếp tục theo học các bậc học cao hơn về Khoa học máy tính, Trí tuệ nhân tạo.
 
 

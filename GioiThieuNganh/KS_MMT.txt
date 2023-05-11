@@ -1,0 +1,59 @@
+https://daa.uit.edu.vn/content/ky-su-nganh-mang-may-tinh-va-truyen-thong-du-lieu-ap-dung-tu-khoa-13-2018
+Giới thiệu chung về chương trình Kỹ sư ngành Truyền thông và Mạng máy tính (Áp dụng từ khóa 13 - 2018)
+11/05/2023
+
+## Mục tiêu đào tạo
+
+Chương trình đào tạo hướng đến đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao đạt trình độ khu vực và quốc tế, đáp ứng nhu cầu xây dựng nguồn nhân lực ngành công nghiệp công nghệ thông tin trong cả nước. Cụ thể, mục tiêu đào tạo ngành Truyền thông và Mạng máy tính:
+
+Đào tạo kỹ sư ngành Truyền thông và Mạng máy tính có phẩm chất chính trị tốt, có ý thức tổ chức kỷ luật; có đạo đức nghề nghiệp;
+
+Nắm vững kiến thức cơ bản và chuyên sâu về ngành nghề, đáp ứng yêu cầu về nghiên cứu, ứng dụng, có khả năng thiết kế chế tạo, bảo trì, sản xuất, thử nghiệm, bảo mật, quản lý các hệ thống mạng máy tính và truyền thông.
+
+Sinh viên tốt nghiệp có khả năng đảm nhận các chức năng tham mưu, tư vấn, tổ chức thực hiện nhiệm vụ với tư cách là một chuyên viên trong lĩnh vực mạng máy tính và truyền thông.
+
+## Vị trí và khả năng làm việc sau tốt nghiệp
+
+- Khởi nghiệp và làm chủ công nghệ trong các lĩnh vực IoTs/Industry4.0 và ứng dụng Mobile.
+- Chuyên gia phát triển hạ tầng, giao thức, dịch vụ mạng (network developers)
+- Kỹ sư, chuyên viên phân tích, thiết kế, cài đặt, quản trị, bảo trì và đảm bảo an ninh cho các hệ thống mạng máy tính và truyền thông trong các cơ quan, công ty, trường học...
+- Cán bộ nghiên cứu và ứng dụng Công nghệ thông tin ở các viện, trung tâm nghiên cứu và các trường đại học, cao đẳng.
+- Giảng viên Công nghệ thông tin ở các các trường đại học, cao đẳng, trung học phổ thông, trung học chuyên nghiệp và dạy nghề.
+
+## Hình thức và thời gian đào tạo
+
+Hình thức đào tạo: chính quy tập trung.
+
+Thời gian đào tạo: 4 năm.
+
+## Chuẩn đầu ra
+
+Sinh viên tốt nghiệp ngành Truyền thông và Mạng máy tính phải đáp ứng các yêu cầu về chuẩn đầu ra sau:
+- LO 1: Có kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội
+- LO 2:Có kiến thức nền tảng và chuyên sâu của ngành Truyền thông và Mạng máy tính
+- LO 3: Có khả năng lập luận phân tích và hình thành ý tưởng, giải quyết vấn đề
+- LO 4: Có kỹ năng nghiên cứu khoa học
+- LO 5: Có tư duy hệ thống
+- LO 6: Có đạo đức nghề nghiệp
+- LO 7: Có kỹ năng làm việc nhóm
+- LO 8: Có kỹ năng giao tiếp
+- LO 9: Có khả năng sử dụng ngoại ngữ tốt phục vụ giao tiếp và công việc
+- LO 10: Hiểu bối cảnh và nhu cầu xã hội và có kỹ năng xây dựng ý tưởng, thiết kế, xây dựng và triển khai ứng dụng
+
+## Điều kiện tốt nghiệp
+
+Sinh viên có thể xét tốt nghiệp theo một trong hai chuyên ngành sau:
+- Mạng máy tính
+- Truyền thông
+
+Sinh viên phải tích lũy tối thiểu 136 tín chỉ được phân bố theo các khối kiến thức sau:
+- Kiến thức giáo dục đại cương: 51 tín chỉ
+- Kiến thức cơ sở nhóm ngành: 25 tín chỉ
+- Kiến thức cơ sở ngành: 25 tín chỉ
+- Kiến thức bắt buộc theo chuyên ngành xét tốt nghiệp: 9 tín chỉ
+- Kiến thức tự chọn: tối thiểu 12 tín chỉ
+- Thực tập và đồ án: 4 tín chỉ
+- Kiến thức tốt nghiệp: 10 tín chỉ theo 2 lựa chọn là làm khóa luận tốt nghiệp hoặc học các môn thay thế.
+- Đáp ứng được chuẩn đầu ra ngoại ngữ theo quy định của Trường ĐH CNTT (hoặc tích lũy thêm 12 tín chỉ Anh Văn)
+
+Ngoài ra, sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin.
