@@ -1,0 +1,17 @@
+https://tuyensinh.uit.edu.vn/3-ban-sinh-vien-uit-duoc-vinh-danh-tai-cuoc-thi-tan-cong-mang-gioi
+3 bạn sinh viên UIT được vinh danh tại cuộc thi tấn công mạng thế giới
+11/05/2023
+
+## Mới đây, 03 sinh viên thuộc CLB Wanna.W1n (UIT InSecLab) cùng nhóm kỹ sư ECQ đã khai thác thành công 2 lỗ hổng zero-day trong hệ thống điều khiển công nghiệp (ICS) và hệ thống điều khiển, giám sát và thu thập dữ liệu (SCADA). Qua đó, giành được giải thưởng 25.000USD tại cuộc thi tấn công mạng Pwn2Own Miami 2023.
+
+03 sinh viên được vinh danh tại cuộc thi là: Đoàn Anh Dũng (An toàn Thông tin 2019); Nguyễn Phúc Chương (An toàn Tài năng 2019); Hồ Xuân Ninh (An toàn Tài năng 2019) 
+
+Đối với mục tiêu đầu tiên vào ngày 14/2 là ứng dụng Softing edgeConnector Siemens thuộc danh mục OPC UA server. ECQ đã tiến hành khai thác lỗ hổng Null Pointer Dereference để tấn công từ chối dịch vụ (DOS). Các lỗ hổng DOS rất quan trọng vì các sản phẩm ICS đề cao tính khả dụng của hệ thống. Các cuộc tấn công này hướng tới việc tận dụng lỗ hổng phần mềm khiến cho ứng dụng sập hoặc trì hoãn, không thể xử lý các yêu cầu khác.
+
+Đến ngày 15/2, mục tiêu đưa ra là Triangle Microworks SCADA Data Gateway thuộc danh mục Data Gateway. ECQ kết hợp chuỗi ba lỗ hổng để hoàn thành tấn công thực thi mã từ xa (Remote Code Execution). Đội đã thành công trong việc thực thi mã tùy ý trên máy chủ cài đặt ứng dụng.
+
+Việc tham gia cuộc thi mang lại cho các bạn nhiều trải nghiệm và cơ hội thú vị. “Trong quá trình thực hiện dự án, tụi mình gặp những khó khăn nhất định, do tiếp cận với các phần mềm, hệ thống mới, việc sai sót và những cách học sai lầm là điều không thể tránh khỏi. Tuy nhiên team ECQ tụi mình may mắn có được những người anh có kinh nghiệm dày dặn trong nghề, trong việc nghiên cứu và tìm hiểu cái mới, từ đó dẫn dắt cả đội đồng thời động viên các anh em trong quá trình thực hiện. Nhìn chung tụi mình khá hài lòng với kết quả vừa rồi, vì chỉ trải qua gần 2 tháng để bắt đầu từ con số 0”, bạn Anh Dũng chia sẻ.
+
+Đồng thời, Dũng cũng gửi lời cảm ơn chân thành đến thầy cô và Nhà trường: “Mình xin dành lời cảm ơn trân trọng nhất tới trường Đại học Công nghệ Thông tin, ĐHQG-HCM và các giảng viên trong việc đào tạo và nuôi dưỡng những sinh viên, cựu sinh viên, giúp chúng mình có hành trang vững chắc trước khi bước ra một môi trường chuyên nghiệp và đầy năng lực như ECQ. Ngoài ra mình cũng xin dành lời cảm ơn đến phòng thí nghiệm An toàn thông tin - UIT InsecLab và câu lạc bộ Wanna.W1n đã tạo ra môi trường tuyệt vời cho những anh em đã và đang còn học ở trường có cơ hội cọ xát, tiếp xúc và nuôi dưỡng đam mê về An toàn thông tin.
+
+Được biết, PWN2OWN là cuộc thi tấn công mạng lớn và nổi tiếng nhất thế giới do Trend Micro tài trợ và Zero Day Initiative tổ chức thường niên (hai lần một năm) từ năm 2007. Cuộc thi được tổ chức nhằm tạo điều kiện cho các hacker thể hiện kĩ năng của mình để tấn công, khai thác lỗ hỏng các thiết bị và phần mềm của các tập đoàn công nghệ nổi tiếng. Các tập đoàn này sẽ đề nghị mua lại các lỗ hổng mà hacker khai thác được với mức giá lên đến hàng nghìn USD nhằm có thể khắc phục và nâng cao tính bảo mật cho sản phẩm của họ. 

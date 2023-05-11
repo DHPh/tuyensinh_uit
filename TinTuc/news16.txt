@@ -1,0 +1,19 @@
+https://tuyensinh.uit.edu.vn/uit-co-den-4-doi-xuat-sac-vao-chung-ket-cuoc-thi-hcmus-ctf-2023
+UIT có đến 4 đội xuất sắc vào chung kết cuộc thi HCMUS-CTF-2023
+11/05/2023
+
+## UIT có đến 4 đội xuất sắc vào chung kết cuộc thi HCMUS-CTF-2023
+
+Vừa qua, vòng loại cuộc thi HCMUS-CTF đã diễn ra từ 15h ngày 06/05/2023 đến 15h ngày 07/05/2023 với hình thức Online - Jeopardy thu hút hơn 10 trường Đại học tham gia. Qua đó, BTC xác định 15 tấm vé cho đội thi từ Trường ĐH Khoa học Tự nhiên ĐHQG-HCM và 10 vé cho đội thi bên ngoài có điểm số cao nhất vào Vòng Chung Kết HCMUS-CTF 2023. Không nằm ngoài dự đoán, 4 đội thi đến từ UIT đã xuất sắc tiến vào chung kết.
+
+4 đội thi lần lượt xếp hạng như sau:
+-1 - República de Ricon
+-3- TacoCat
+-5 - Green Onions
+-7 - Project error
+
+Được biết, Cuộc thi An toàn Thông tin (ATTT) - HCMUS-CTF 2023 là một sân chơi dành cho các bạn sinh viên có đam mê và quan tâm về lĩnh vực ATTT. Nội dung thi của HCMUS-CTF sẽ xoay quanh các chủ đề quen thuộc như: Pwnable, Reverse engineering, Web Security, Forensics, Cryptography, AI Security.
+
+Cũng trong cuộc thi này, vào năm 2022, các đội thi đến từ UIT đều có thành tích rất xuất sắc. Chức Quán quân và Á quân đều do sinh viên UIT nắm giữ. Cụ thể, đội Sp33d_0f_T1m3 gồm bốn sinh viên khóa 2019, đó là Nguyễn Lê Hy, Lê Trần Thành Nhân, Nguyễn Phạm Lâm Duy, Lê Thanh Duẩn giành được số điểm cao nhất. Về nhì là đội purf3ct gồm Nguyễn Đăng Nguyên, Phan Vĩnh Khanh, Phan Hoàng Tuấn, Trần Chí Thiện, sinh viên khóa 2020. 
+
+Hiện tại, các đội thi đang cố gắng chuẩn bị cho phần thi tiếp theo. Chung kết cuộc thi sẽ diễn ra vào ngày 21/05/2023. 
