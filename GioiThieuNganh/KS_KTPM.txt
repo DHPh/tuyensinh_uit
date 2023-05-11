@@ -1,0 +1,52 @@
+https://daa.uit.edu.vn/content/ky-su-nganh-ky-thuat-phan-mem-ap-dung-tu-khoa-12-2017
+Giới thiệu chương trình Kỹ sư ngành Kỹ thuật Phần mềm (Áp dụng từ khóa 12 - 2017)
+11/05/2023
+
+## Mục tiêu đào tạo
+
+Chương trình đào tạo hướng đến đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao đạt trình độ khu vực và quốc tế, đáp ứng nhu cầu xây dựng nguồn nhân lực ngành công nghiệp công nghệ thông tin trong cả nước.
+
+Sinh viên tốt nghiệp chương trình Kỹ sư ngành Kỹ thuật phần mềm phải đáp ứng các yêu cầu:
+- Có kiến thức cơ bản vững vàng, trình độ chuyên môn giỏi, kỹ năng phát triển phần mềm chuyên nghiệp, có năng lực nghiên cứu và tư duy sáng tạo.
+- Nắm vững quy trình xây dựng phát triển phần mềm, có khả năng triển khai xây dựng các hệ thống ứng dụng tin học và phân tích, thiết kế xây dựng các phần mềm có giá trị thực tiễn cao, có tính sáng tạo.
+- Có trình độ tiếng Anh tốt, có thể giao tiếp, làm việc với các chuyên gia, đồng nghiệp nước ngoài.
+
+Khoá luận tốt nghiệp có thể ươm mầm cho các phần mềm trong tương lai
+
+## Vị trí và khả năng làm việc sau tốt nghiệp
+
+Sinh viên tốt nghiệp ngành Kỹ thuật phần mềm có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:
+- Chuyên viên phân tích, thiết kế, cài đặt, quản trị, bảo trì các phần mềm máy tính đáp ứng các ứng dụng khác nhau trong các cơ quan, công ty, trường học...
+- Học tiếp các bậc học cao hơn của ngành Kỹ thuật phần mềm hoặc các ngành liên quan như Khoa học máy tính, Công nghệ thông tin, Hệ thống thông tin tại các cơ sở đào tạo trong và ngoài nước.
+- Cán bộ nghiên cứu và ứng dụng Công nghệ thông tin ở các viện, trung tâm nghiên cứu và các trường đại học, cao đẳng. Giảng dạy các môn liên quan đến công nghệ thông tin, công nghệ phần mềm tại các trường đại học, cao đẳng, trung học chuyên nghiệp, dạy nghề và các trường phổ thông.
+- Nghiên cứu khoa học thuộc các lĩnh vực về công nghệ phần mềm, công nghệ mạng và các hệ thống nhúng ở các viện nghiên cứu, các trung tâm và cơ quan nghiên cứu của các Bộ, Ngành, các trường Đại học và Cao đẳng.
+- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (hành chính sự nghiệp, ngân hàng, viễn thông, hàng không, xây dựng…).
+
+Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công ty tư vấn về đề xuất giải pháp, xây dựng và bảo trì các hệ thống phần mềm.
+
+## Hình thức và thời gian đào tạo
+
+Hình thức đào tạo: chính quy tập trung.
+
+Thời gian đào tạo: 4 năm, trải đều trên 8 học kỳ.
+
+## Chuẩn đầu ra
+
+Sinh viên tốt nghiệp chương trình kỹ sư/ cử nhân ngành Kỹ thuật phần mềm phải đáp ứng các yêu cầu về tiêu chuẩn đầu ra về mặt kiến thức, kỹ năng và thái độ như sau:
+- Có kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội và khả năng vận dụng vào chuyên ngành (LO 1) (abet 3a).
+- Có kiến thức kiến thức nền tảng và chuyên sâu của ngành kỹ thuật phần mềm và ứng dụng vào thực tiễn (LO 2) (abet 3b, c).
+- Có khả năng lập luận phân tích và giải quyết vấn đề liên quan đến ngành kỹ thuật phần mềm (LO 3) (abet 3e, cdio 2.1)
+- Có kỹ năng nghiên cứu khoa học (khảo sát tài liệu, phân tích, đánh giá) (LO 4), (abet 3b)
+- Có tư duy hệ thống, có khả năng phân tích, thiết kế các thành phần hoặc toàn bộ hệ thống thuộc lĩnh vực KTPM (LO 5) (abet 3c)
+- Có nhận thức về sự cần thiết và có năng lực để học tập suốt đời, tự học các kiến thức bổ trợ để phục vụ cho hướng công việc tương lai (abet 3i). Có hiểu biết về các giá trị đạo đức và trách nhiệm nghề nghiệp (LO 6) (abet 3f)
+- Có kỹ năng làm việc nhóm với tác phong chuyên nghiệp (LO 7) (abet 3d)
+- Có kỹ năng giao tiếp (LO 8) (abet 3g)
+- Có kỹ năng ngoại ngữ (LO 9)
+- Hiểu nhu cầu xã hội, hiểu được tác động của các công nghệ mới trong bối cảnh xã hội, kinh tế toàn cầu. Có khả năng hình thành ý tưởng, phân tích, thiết kế, tổ chức, xây dựng và triển khai các ứng dụng đáp ứng nhu cầu xã hội, khởi nghiệp và sáng tạo(LO 10) (abet 3j)
+
+## Điều kiện tốt nghiệp
+
+Công nhận tốt nghiệp:
+- Sinh viên đã tích lũy tối thiểu 140 tín chỉ, đã hoàn thành các môn học bắt buộc.
+
+Ngoài ra, sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin.
